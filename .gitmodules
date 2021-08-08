@@ -10,3 +10,6 @@
 [submodule "bank-churners-prediction"]
 	path = bank-churners-prediction
 	url = https://github.com/zhpinkman/bank-churners-prediction
+[submodule "mahalanobis-distance"]
+	path = mahalanobis-distance
+	url = git@github.com:zhpinkman/mahalanobis-distance.git
