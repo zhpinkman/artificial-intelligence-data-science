@@ -1,3 +1,6 @@
 [submodule "ai-notes"]
 	path = ai-notes
 	url = https://github.com/zhpinkman/ai-notes
+[submodule "Minimax_Player"]
+	path = Minimax_Player
+	url = https://github.com/zhpinkman/Minimax_Player
