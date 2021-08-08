@@ -16,3 +16,6 @@
 [submodule "mnist-logistic-regression"]
 	path = mnist-logistic-regression
 	url = git@github.com:zhpinkman/mnist-logistic-regression.git
+[submodule "applied-plotting-charting-data-representation"]
+	path = applied-plotting-charting-data-representation
+	url = https://github.com/zhpinkman/applied-plotting-charting-data-representation
