@@ -1,0 +1,3 @@
+[submodule "ai-notes"]
+	path = ai-notes
+	url = https://github.com/zhpinkman/ai-notes
