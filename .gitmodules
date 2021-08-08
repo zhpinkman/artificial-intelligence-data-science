@@ -4,3 +4,6 @@
 [submodule "Minimax_Player"]
 	path = Minimax_Player
 	url = https://github.com/zhpinkman/Minimax_Player
+[submodule "house-pricing-regressor"]
+	path = house-pricing-regressor
+	url = git@github.com:zhpinkman/house-pricing-regressor.git
