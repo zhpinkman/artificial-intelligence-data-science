@@ -13,3 +13,6 @@
 [submodule "mahalanobis-distance"]
 	path = mahalanobis-distance
 	url = git@github.com:zhpinkman/mahalanobis-distance.git
+[submodule "mnist-logistic-regression"]
+	path = mnist-logistic-regression
+	url = git@github.com:zhpinkman/mnist-logistic-regression.git
