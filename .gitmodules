@@ -19,3 +19,6 @@
 [submodule "applied-plotting-charting-data-representation"]
 	path = applied-plotting-charting-data-representation
 	url = https://github.com/zhpinkman/applied-plotting-charting-data-representation
+[submodule "Minmax_Player"]
+	path = Minmax_Player
+	url = https://github.com/zhpinkman/Minmax_Player
