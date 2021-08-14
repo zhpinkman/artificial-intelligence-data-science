@@ -25,3 +25,9 @@
 [submodule "searching-algorithms"]
 	path = searching-algorithms
 	url = git@github.com:zhpinkman/searching-algorithms.git
+[submodule "naive-bayes-classifier"]
+	path = naive-bayes-classifier
+	url = https://github.com/zhpinkman/naive-bayes-classifier
+[submodule "random-forest"]
+	path = random-forest
+	url = https://github.com/zhpinkman/random-forest
