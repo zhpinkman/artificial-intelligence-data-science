@@ -22,3 +22,6 @@
 [submodule "Minmax_Player"]
 	path = Minmax_Player
 	url = https://github.com/zhpinkman/Minmax_Player
+[submodule "searching-algorithms"]
+	path = searching-algorithms
+	url = git@github.com:zhpinkman/searching-algorithms.git
