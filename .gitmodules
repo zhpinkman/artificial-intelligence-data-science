@@ -31,3 +31,6 @@
 [submodule "random-forest"]
 	path = random-forest
 	url = https://github.com/zhpinkman/random-forest
+[submodule "permutation-tests"]
+	path = permutation-tests
+	url = git@github.com:zhpinkman/permutation-tests.git
